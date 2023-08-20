@@ -18,23 +18,17 @@ Para executar o aplicativo Contato Manager em seu próprio ambiente, siga as eta
 
 1. **Clone o Repositório:** Abra seu terminal e execute o seguinte comando para clonar o repositório:
     
-    bashCopy code
-    
     `git clone https://github.com/marcus6n/agenda-ruby.git`
     
 2. **Acesse o Diretório:** Navegue para o diretório do projeto:
     
-    bashCopy code
-    
     `cd agenda-ruby-main`
     
 3. **Execute o Código:** Digite o seguinte comando para executar o código:
-    
-    bashCopy code
-    
+
     `ruby agenda.rb`
     
-4. **Interaja com o Menu:** Após a execução, você verá um menu interativo. Escolha as opções numéricas para realizar as ações desejadas.
+5. **Interaja com o Menu:** Após a execução, você verá um menu interativo. Escolha as opções numéricas para realizar as ações desejadas.
     
 
 ## Autor
